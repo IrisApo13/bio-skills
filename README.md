@@ -9,6 +9,6 @@ These skills currently include:
 - alphafold-database: Based on an existing skill from https://github.com/wu-yc/LabClaw, this skill was extended to work with the homodimer data added to AlphaFold in March of 2026. 
 - alphafold-surprise-me: A simple educational skill that shows how one can retrieve and visualize information for a random gene, building on new AlphaFold data.
 
-Going forward I will be adding more skills and exploring more complex projects. 
+**Going forward I will be adding more skills and exploring more complex projects. 
 You can find some projects ideas in alphafold-ideas.md 
-- 
+**- 
